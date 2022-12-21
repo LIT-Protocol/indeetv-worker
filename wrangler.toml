@@ -1,0 +1,4 @@
+name = "indee-tv-gating-demo"
+main = "src/index.js"
+compatibility_date = "2022-12-09"
+node_compat = true

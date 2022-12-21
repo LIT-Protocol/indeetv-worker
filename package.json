@@ -1,0 +1,21 @@
+{
+  "name": "indeetv-lit-worker",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "wrangler": "2.6.2"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish",
+    "test": "jest"
+  },
+  "dependencies": {
+    "lit-jwt-verifier": "^1.0.2"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
